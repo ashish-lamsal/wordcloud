@@ -13,3 +13,9 @@ Processes the input file and stores the wordcloud to output file.
     -o, --out FILE   Path to .png file to store the wordcloud.
     -m, --mask FILE  Path to image file for masking.
     --help           Show this message and exit.
+
+## Samples:
+
+![Image of Sample0](/sample/harry0.png)
+![Image of Sample1](/sample/harry1.png)
+![Image of Sample2](/sample/harry2.png)
