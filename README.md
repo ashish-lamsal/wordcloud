@@ -19,3 +19,7 @@ Processes the input file and stores the wordcloud to output file.
 ![Image of Sample0](/sample/harry0.png)
 ![Image of Sample1](/sample/harry1.png)
 ![Image of Sample2](/sample/harry2.png)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
