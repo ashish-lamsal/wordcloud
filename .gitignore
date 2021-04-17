@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,vscode
 
 ### Python ###
-./*.png
+/*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -25,10 +25,3 @@ def calculate_frequencies(words):
     for word in words:
         counts[word] = counts.get(word, 0) + 1
     return counts
-
-
-def plot_cloud(cloud):
-    plt.figure(figsize=(12,10))
-    plt.imshow(cloud, interpolation='bilinear')
-    plt.axis('off')
-    plt.show()

@@ -2,7 +2,7 @@
 Processes the input file and stores the wordcloud to output file.
 
 ![Top Language](https://img.shields.io/github/languages/top/ashish-lamsal/wordcloud?style=flat-square)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/ashish-lamsal/wordcloud?style=flat-square&logo=GitHub)
+![GitHub Repo Size](https://img.shields.io/github/languages/code-size/ashish-lamsal/wordcloud?style=flat-square&logo=GitHub)
 
 ## Usage: 
 
