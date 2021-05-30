@@ -1,8 +1,8 @@
 # WordCloud
 Processes the input file and stores the wordcloud to output file.
 
-![Top Language](https://img.shields.io/github/languages/top/ashish-lamsal/wordcloud?style=flat-square)
-![GitHub Repo Size](https://img.shields.io/github/languages/code-size/ashish-lamsal/wordcloud?style=flat-square&logo=GitHub)
+![Top Language](https://img.shields.io/github/languages/top/ashishlamsal/wordcloud?style=flat-square)
+![GitHub Repo Size](https://img.shields.io/github/languages/code-size/ashishlamsal/wordcloud?style=flat-square&logo=GitHub)
 
 ## Usage: 
 
